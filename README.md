@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a curious builder who enjoys turning ideas into working systems — from concept to clean, maintainable code.  <br>I love exploring how technology, design, and human behavior intersect, and I’m always learning something new.<br><br>- 🔭 Currently working on: improving my full-stack development workflow  <br>- 🌱 Learning: Python, Kotlin, C# and Rust  <br>- 🧠 I’m interested in how systems evolve and interact — both in code and in organizations <br>- 🎯 Goal: write code that’s both functional and meaningful  <br>
+I'm a curious builder who enjoys turning ideas into working systems — from concept to clean, maintainable code.  <br>I love exploring how technology, design, and human behavior intersect, and I’m always learning something new.<br><br>- 🔭 Currently working on: improving my full-stack development workflow  <br>- 🌱 Learning: Python, C# and Rust  <br>- 🧠 I’m interested in how systems evolve and interact — both in code and in organizations <br>- 🎯 Goal: write code that’s both functional and meaningful  <br>
 
 
 # 💻 Tech Stack:
