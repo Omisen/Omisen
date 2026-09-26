@@ -59,8 +59,8 @@
 <br/>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-<h2 align="center">GITHUB TROPHIES</h2>
-<p align="center">
+<h2 align="left">GITHUB TROPHIES</h2>
+<p align="left">
   <img src="https://trophy.ryglcloud.net/?username=Omisen&theme=monokai&no-frame=true&no-bg=true&margin-w=6&column=-1" alt="trophies"/>
 </p>
 
