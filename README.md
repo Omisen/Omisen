@@ -1,4 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=header" alt="header"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7FB3C8&center=true&vCenter=true&width=520&lines=From+concept+to+clean%2C+maintainable+code.;Where+technology%2C+design+and+behavior+meet.;Code+that%E2%80%99s+functional+and+meaningful." alt="typing"/>
 </p>
