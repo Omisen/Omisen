@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7FB3C8&center=true&vCenter=true&width=520&lines=From+concept+to+clean%2C+maintainable+code.;Where+technology%2C+design+and+behavior+meet.;Code+that%E2%80%99s+functional+and+meaningful." alt="typing"/>
 </p>
 
-<br/>
-
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 <h2 align="left">ABOUT ME</h2>
 
