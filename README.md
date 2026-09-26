@@ -9,7 +9,7 @@
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=155&color=timeGradient&section=header&reversal=false&text=About+Me&textBg=false&fontSize=85&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&descSize=20&descAlign=50&descAlignY=64" alt="About Me">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=155&color=gradient&section=header&reversal=false&text=About+Me&textBg=false&fontSize=85&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&descSize=20&descAlign=50&descAlignY=64" alt="About Me">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&section=header&reversal=false&text=Tech+Stack&textBg=false&fontSize=58&fontAlign=50&fontAlignY=50&rotate=0&descAlign=50&descAlignY=64" alt="Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&section=header&reversal=false&text=Tech+Stack&textBg=false&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&descAlign=50&descAlignY=64" alt="Tech Stack">
 </p>
 
 <p align="center">
