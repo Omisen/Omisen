@@ -9,62 +9,45 @@
 </p>
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
-<h2 align="left">ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
-<p align="left">
-  I'm a <b>curious builder</b> who enjoys turning ideas into working systems, from concept to clean, maintainable code.<br/>
-  I love exploring how <i>technology</i>, <i>design</i> and <i>human behavior</i> intersect, and I'm always learning something new.
+<p align="center">
+  <img src="./assets/about-ghost.svg" alt="About me: curious builder turning ideas into working systems. Currently improving my full-stack workflow; learning Python, C# and Rust; interested in how systems evolve in code and organizations; goal: functional and meaningful code."/>
 </p>
-
-<table>
-  <tr>
-    <td>🔭&nbsp;&nbsp;<b>Currently</b></td>
-    <td>Improving my full-stack development workflow</td>
-  </tr>
-  <tr>
-    <td>🌱&nbsp;&nbsp;<b>Learning</b></td>
-    <td>Python, C# and Rust</td>
-  </tr>
-  <tr>
-    <td>🧠&nbsp;&nbsp;<b>Interested in</b></td>
-    <td>How systems evolve and interact, both in code and in organizations</td>
-  </tr>
-  <tr>
-    <td>🎯&nbsp;&nbsp;<b>Goal</b></td>
-    <td>Write code that's both functional and meaningful</td>
-  </tr>
-</table>
 
 <br/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<h2 align="left">TECH STACK</h2>
+<h2 align="center">TECH STACK</h2>
 
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,rust,java,nodejs,postgres,mongodb&theme=dark" alt="Backend"/>
-  </a>
-</p>
-
-<h3 align="center">Frontend</h3>
+<!-- <h3 align="left">Backend</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,css,tailwind,vite&theme=dark" alt="Frontend"/>
+    <!-- <img src="https://skillicons.dev/icons?i=cs,py,rust,java,nodejs,postgres,mongodb&theme=dark" alt="Backend"/> -->
+    <img src="./assets/stack-backend-ghost.svg" alt="Backend"/>
   </a>
 </p>
 
-<h3 align="right">Tools & Others</h3>
-<p align="right">
+<!-- <h3 align="center">Frontend</h3> -->
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,figma&theme=dark" alt="Tools"/>
+    <!-- <img src="https://skillicons.dev/icons?i=js,ts,react,angular,css,tailwind,vite&theme=dark" alt="Frontend"/> -->
+    <img src="./assets/stack-frontend-ghost.svg" alt="Frontend"/>
+  </a>
+</p>
+
+<!-- <h3 align="right">Tools & Others</h3> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,figma&theme=dark" alt="Tools"/> -->
+    <img src="./assets/stack-tools-ghost.svg" alt="Tools"/>
   </a>
 </p>
 
 <br/>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-<h2 align="left">GITHUB TROPHIES</h2>
+<h2 align="center">GITHUB TROPHIES</h2>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Omisen&theme=monokai&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" alt="trophies"/>
 </p>
