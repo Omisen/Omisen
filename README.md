@@ -12,7 +12,11 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <img src="./assets/about-ghost.svg" alt="About me: curious builder turning ideas into working systems. Currently improving my full-stack workflow; learning Python, C# and Rust; interested in how systems evolve in code and organizations; goal: functional and meaningful code."/>
+  <!-- <img src="./assets/about-ghost.svg" alt="About me: curious builder turning ideas into working systems. Currently improving my full-stack workflow; learning Python, C# and Rust; interested in how systems evolve in code and organizations; goal: functional and meaningful code."/> -->
+  <picture>
+  <source media="(max-width: 600px)" srcset="./assets/about-ghost-mobile.svg"/>
+  <img src="./assets/about-ghost.svg" alt="..."/>
+</picture>
 </p>
 
 <br/>
