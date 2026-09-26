@@ -1,8 +1,45 @@
-# 💫 About Me:
-I'm a curious builder who enjoys turning ideas into working systems from concept to clean, maintainable code.  <br>I love exploring how technology, design, and human behavior intersect, and I’m always learning something new.<br><br>- 🔭 Currently working on: improving my full-stack development workflow  <br>- 🌱 Learning: Python, C# and Rust  <br>- 🧠 I’m interested in how systems evolve and interact — both in code and in organizations <br>- 🎯 Goal: write code that’s both functional and meaningful  <br>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Omisen&fontSize=52&fontColor=e6e6e6&fontAlignY=38&desc=builder%20%C2%B7%20systems%20thinker%20%C2%B7%20lifelong%20learner&descSize=16&descAlignY=60&animation=fadeIn" alt="header"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7FB3C8&center=true&vCenter=true&width=520&lines=From+concept+to+clean%2C+maintainable+code.;Where+technology%2C+design+and+behavior+meet.;Code+that%E2%80%99s+functional+and+meaningful." alt="typing"/>
+</p>
 
-<h2 align="left">💻 Tech Stack</h2>
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+<h2 align="left">ABOUT ME</h2>
+
+<p align="left">
+  I'm a <b>curious builder</b> who enjoys turning ideas into working systems, from concept to clean, maintainable code.<br/>
+  I love exploring how <i>technology</i>, <i>design</i> and <i>human behavior</i> intersect, and I'm always learning something new.
+</p>
+
+<table>
+  <tr>
+    <td>🔭&nbsp;&nbsp;<b>Currently</b></td>
+    <td>Improving my full-stack development workflow</td>
+  </tr>
+  <tr>
+    <td>🌱&nbsp;&nbsp;<b>Learning</b></td>
+    <td>Python, C# and Rust</td>
+  </tr>
+  <tr>
+    <td>🧠&nbsp;&nbsp;<b>Interested in</b></td>
+    <td>How systems evolve and interact, both in code and in organizations</td>
+  </tr>
+  <tr>
+    <td>🎯&nbsp;&nbsp;<b>Goal</b></td>
+    <td>Write code that's both functional and meaningful</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<h2 align="left">TECH STACK</h2>
 
 <h3 align="left">Backend</h3>
 <p align="left">
@@ -38,13 +75,31 @@ I'm a curious builder who enjoys turning ideas into working systems from concept
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Omisen&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+<h2 align="center">GITHUB TROPHIES</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omisen&theme=monokai&no-frame=true&no-bg=true&margin-w=6&column=-1" alt="trophies"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Omisen&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+
+<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
+<h3 align="center">RANDOM DEV QUOTE</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Omisen&icon=0&color=0" alt="visitors"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
