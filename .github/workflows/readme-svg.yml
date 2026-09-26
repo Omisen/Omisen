@@ -1,0 +1,47 @@
+name: Aggiorna SVG del README
+
+on:
+  # si attiva quando modifichi le variabili, i template o lo script
+  push:
+    paths:
+      - "variables.md"
+      - "templates/**"
+      - "scripts/**"
+      - "icons/**"
+  # avvio manuale dalla tab Actions
+  workflow_dispatch:
+  # opzionale: rigenera ogni notte (utile se usi {{updated}})
+  # schedule:
+  #   - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-svg-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Genera SVG da variables.md
+        run: node scripts/build-svg.mjs
+
+      - name: Committa gli SVG aggiornati
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg icons/*.svg README.md
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da committare"
+            exit 0
+          fi
+          git commit -m "chore(readme): rigenera SVG da variables.md"
+          git push
