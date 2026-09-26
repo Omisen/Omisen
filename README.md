@@ -1,5 +1,4 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=header" alt="header"/>
 </p>
@@ -12,7 +11,6 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <!-- <img src="./assets/about-ghost.svg" alt="About me: curious builder turning ideas into working systems. Currently improving my full-stack workflow; learning Python, C# and Rust; interested in how systems evolve in code and organizations; goal: functional and meaningful code."/> -->
   <picture>
   <source media="(max-width: 600px)" srcset="./assets/about-ghost-mobile.svg"/>
   <img src="./assets/about-ghost.svg" alt="..."/>
@@ -24,26 +22,20 @@
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 <h2 align="center">TECH STACK</h2>
 
-<!-- <h3 align="left">Backend</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=cs,py,rust,java,nodejs,postgres,mongodb&theme=dark" alt="Backend"/> -->
     <img src="./assets/stack-backend-ghost.svg" alt="Backend"/>
   </a>
 </p>
 
-<!-- <h3 align="center">Frontend</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=js,ts,react,angular,css,tailwind,vite&theme=dark" alt="Frontend"/> -->
     <img src="./assets/stack-frontend-ghost.svg" alt="Frontend"/>
   </a>
 </p>
 
-<!-- <h3 align="right">Tools & Others</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,figma&theme=dark" alt="Tools"/> -->
     <img src="./assets/stack-tools-ghost.svg" alt="Tools"/>
   </a>
 </p>
