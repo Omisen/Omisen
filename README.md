@@ -8,7 +8,9 @@
 </p>
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
-<h2 align="center">ABOUT ME</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=155&color=timeGradient&section=header&reversal=false&text=About+Me&textBg=false&fontSize=85&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&descSize=20&descAlign=50&descAlignY=64" alt="About Me">
+</p>
 
 <p align="center">
   <picture>
@@ -20,7 +22,9 @@
 <br/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<h2 align="center">TECH STACK</h2>
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=timeGradient&section=header&reversal=false&text=Tech+Stack&textBg=false&fontSize=58&fontAlign=42&fontAlignY=50&rotate=0&descAlign=50&descAlignY=64" alt="Tech Stack">
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
