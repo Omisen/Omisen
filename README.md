@@ -22,8 +22,8 @@
 <br/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&section=header&reversal=false&text=Tech+Stack&textBg=false&fontSize=58&fontAlign=52&fontAlignY=50&rotate=0&descAlign=50&descAlignY=64" alt="Tech Stack">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&section=header&reversal=false&text=Tech+Stack&textBg=false&fontSize=58&fontAlign=50&fontAlignY=50&rotate=0&descAlign=50&descAlignY=64" alt="Tech Stack">
 </p>
 
 <p align="center">
