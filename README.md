@@ -2,10 +2,10 @@
 I'm a curious builder who enjoys turning ideas into working systems from concept to clean, maintainable code.  <br>I love exploring how technology, design, and human behavior intersect, and I’m always learning something new.<br><br>- 🔭 Currently working on: improving my full-stack development workflow  <br>- 🌱 Learning: Python, C# and Rust  <br>- 🧠 I’m interested in how systems evolve and interact — both in code and in organizations <br>- 🎯 Goal: write code that’s both functional and meaningful  <br>
 
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
-<h3 align="center">🔷 Backend 🔷</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -16,7 +16,7 @@ I'm a curious builder who enjoys turning ideas into working systems from concept
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<h3 align="center">🔷 Frontend 🔷</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -29,8 +29,8 @@ I'm a curious builder who enjoys turning ideas into working systems from concept
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-<h3 align="center">🔷 Tools & Others 🔷</h3>
-<p align="center">
+<h3 align="right">Tools & Others</h3>
+<p align="right">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
